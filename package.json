@@ -1,0 +1,22 @@
+{
+  "name": "igloterapia",
+  "version": "1.0.0",
+  "description": "Igloterapia Web site",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marko4123/igloterapia.git"
+  },
+  "author": "Marko Uzunov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Marko4123/igloterapia/issues"
+  },
+  "homepage": "https://github.com/Marko4123/igloterapia#readme",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
